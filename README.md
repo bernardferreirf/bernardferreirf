@@ -22,7 +22,7 @@ class About {
 }
 ```
 ```markdown
-Find Myself At [Bernardo Ferreira F.](https://bernardferreirf.github.io)
+Find Myself At [Bernardo Ferreira F.](https://bernardferreirf.netlify.app)
 ```
 
 * * *
